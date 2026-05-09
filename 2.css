@@ -1,0 +1,21 @@
+* {
+    margin: 0; /*khoảng cách giữa các thẻ html*/
+
+ }
+  
+h1{
+background-color: black;
+color: white;
+text-align: center;
+padding: 30px;
+}
+p{
+    background-color:rgb(161, 161, 161);
+    text-align: center;
+
+}
+a{
+    color: #313131;
+    text-decoration: none;
+    margin-right: 10px; /*khoảng cách giữa các phần tử*/
+}
